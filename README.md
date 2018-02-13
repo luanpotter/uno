@@ -1,6 +1,6 @@
 # UNO&reg; Revamped
 
-Have you ever played UNO&reg? Few people can say they haven't. From its humble beginning with Mau-Mau and other Playing Cards variants, it has grown to be one of the most famous party games ever, entertaining people around the globe.
+Have you ever played UNO&reg;? Few people can say they haven't. From its humble beginning with Mau-Mau and other Playing Cards variants, it has grown to be one of the most famous party games ever, entertaining people around the globe.
 
 One common situation is shared by every player, though: no one can settle on the rules. Any ruleset can be used, as long as properly defined at the beginning. This is what this repository aims to do: help you to choose and define the best rule set for you, showing the official rules (Basic), that are often mistaken and confused, show an improved version, the Basic+, and also some Special Rules to spice up your game.
 
@@ -39,4 +39,4 @@ Contribute by making the rules clearer and free of ambiguity, correcting any err
 
 ## Licensing
 
-This entire repository is [MIT](LICENSE.md). The UNO&reg; trademark and IP are registered by Mattel&trade; under copyright laws, and this repository is not endorsed nor related to Mattel&trade; or any affiliates, and therefore is based under Fair Use.
+This entire repository is [MIT](LICENSE.md). The UNO&reg; trademark and IP are registered by &copy; Mattel under copyright laws, and this repository is not endorsed nor related to Mattel&trade; or any affiliates, and therefore is based under Fair Use.

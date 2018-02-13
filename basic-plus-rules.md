@@ -4,7 +4,7 @@
 
 This is our favorite basic ruleset (no special rules included), and it's very similar to the official rules, with a few differences.
 
-Reading the full version is recommend (below, it's very compact), but if one has a basic understanding of how Uno&reg; works, one can read just the [Diff](#Diff) section, as it will list the differences, plus some confusing points people often disagree. Also, one can check the [Explanations](#Explanations) section, that will mention all differences and common misconceptions and add motivations behind the choices made in Basic+.
+Reading the full version is recommend (below, it's very compact), but if one has a basic understanding of how Uno&reg; works, one can read just the [Diff](#diff) section, as it will list the differences, plus some confusing points people often disagree. Also, one can check the [Explanations](#explanations) section, that will mention all differences and common misconceptions and add motivations behind the choices made in Basic+.
 
 When in doubt, check the [Definitions](definitions.md) file for clarifications about the terms used here. Also, check the [Cards](cards.md) for the name given to the cards and how to identify each one.
 
@@ -50,7 +50,7 @@ Some cards have special effects that are activated when they are discarded; thes
 
 ## UNO&reg;
 
-Why is the game called UNo&reg;, though? There is one additional and beloved rule: if a player has exactly one card in his hand, he should Uno, i.e., say "Uno!" out loud.
+Why is the game called UNO&reg;, though? There is one additional and beloved rule: if a player has exactly one card in his hand, he should Uno, i.e., say "Uno!" out loud.
 
 If someone notices a player hasn't Uno'ed, and he still has one card (can't be done retroactively), they can call him out and he must draw **3** cards.
 

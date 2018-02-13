@@ -24,7 +24,7 @@ This rule defines a new kind of card: the Silence Card.
 
 If the Silence Card is played, no player can say anything. Laughs, coughs and sneezes are allowed. If a player speaks, he must draw 3 cards, and the Silence is over. If a Silence Card is played while in Silence, the Silence ends as well.
 
-If a player needs to Uno while on Silence Rule, he can double tap the table (as specified in the "Uno&reg" section of the [Basic+ Rules](basic-plus-rules.md)).
+If a player needs to Uno while on Silence Rule, he can double tap the table (as specified in the "UNO&reg;" section of the [Basic+ Rules](basic-plus-rules.md)).
 
 ## Slap Rule
 

@@ -2,7 +2,7 @@
 
 ## First Player Decision Rule
 
-There is no consensus among on how to decide the first player. The official Mattel&trade; 's UNO&trade; guide, available [here](https://service.mattel.com/instruction_sheets/42001pr.pdf), says:
+There is no consensus among on how to decide the first player. The official Mattel&copy; 's UNO&reg; guide, available [here](https://service.mattel.com/instruction_sheets/42001pr.pdf), says:
 
 > The player to the left of the dealer plays first.
 
@@ -13,7 +13,7 @@ Therefore, the following rules are proposed, one of which can be chosen democrat
 * The youngest/oldest player starts: this rule provides fun off-game in the process of finding out people's ages, which always turn up to be entertaining, but if one always plays with the same people the outcome will always be the same (not if one is playing a Match, check Matches' rules [here](#Match Rules)). This also is not suitable for competition, as it's intrinsically discriminatory.
 * The first who called out / the owner of the deck starts: again, this is not suitable for competitions or if one plays with the same people regularly, but it has the advantage of being the easiest and simplest way to start (if no one cares about the unfairness).
 * Use a hand game, like Jan-Ken-Pon (for two players), Ones-And-Twos (for small groups, the odd-man-out starts, repeat until successfully) or Morra (for larger groups, repeat until successfully).
-* Use a truly random method, like a dice throw, higher card starts, or our personal favorite app [Chwazi](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp&hl=en). The higher cards is a good truly random method that does not require any additional infrastructure, as the UNO&trade; deck itself can be used. However, it requires an ordering of the cards. A simple suggestion follows: a card with a number has that value (Regular Cards or Draw Cards), other cards have a value of 10 (Skip, Reverse and Choose Color cards). If tied in first, only those who tied redraw, until a single person is selected.
+* Use a truly random method, like a dice throw, higher card starts, or our personal favorite app [Chwazi](https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp&hl=en). The higher cards is a good truly random method that does not require any additional infrastructure, as the UNO&reg; deck itself can be used. However, it requires an ordering of the cards. A simple suggestion follows: a card with a number has that value (Regular Cards or Draw Cards), other cards have a value of 10 (Skip, Reverse and Choose Color cards). If tied in first, only those who tied redraw, until a single person is selected.
 
 ## Match Rules
 
