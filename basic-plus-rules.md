@@ -64,7 +64,7 @@ Alternatively, a player can also double tap the table to Uno (it has the same ef
 
 A player can Uno as many times as he wants, as long as he still has one card.
 
-## Diff
+# Diff
 
 * Anyone can deal, the first player is determined by a random method;
 * Deal 7 cards for each player;
@@ -74,15 +74,15 @@ A player can Uno as many times as he wants, as long as he still has one card.
 * The penalty for not Uno'ing, if noticed, is to draw 3 -- the same for wrong accusing. There is no penalty if unnoticed;
 * You can't "accumulate" or "repass" a Draw Card in the official rules; that's a [Special Rule](special-rules.md), and it's not included in the Basic+ set.
 
-## Explanations
+# Explanations
 
 This section explains the differences from the rules described here (Basic+) and the official rules, including the motivations and explanations.
 
-### First Player Decision
+## First Player Decision
 
 The official rules select the dealer by highest card drawn, and the first player to his left. Basic+ doesn't include a dealer role, and the first player must be decided randomly. You can see a in-depth discussion about this [here](first-player-matches.md).
 
-### Starting cards
+## Starting cards
 
 In the official rules, if the first card discarded from the deck is a black card, it must be reshuffled.
 
@@ -92,13 +92,13 @@ Basic+ rules say:
 
 This was changed to reduce the number of edge cases, as each rule has a special case as to what happens if it's the first play; this allows for any special or extra rules to be simpler.
 
-### Black Cards Limitations
+## Black Cards Limitations
 
 In the official rules, a player can't play a Draw 4 card unless that's the only possible card he can play; this rule can be broken but the target of the Draw 4 can challenge the player who played. All this is removed in Basic+, to allow for more strategic plays, instead of adding a Bluff element.
 
 Also, in the official rules, it's forbidden to win with a Black Card. Again, this was removed, to allow for more strategic plays.
 
-### Play after Draw
+## Play after Draw
 
 In the official rules, a player can only draw if he has no options. Near the end of the rulebook, though, the Reneging rule is mentioned, allowing a player to draw even without need. Again, this unverifiable rule was removed to make the game simpler and more strategic.
 
@@ -108,11 +108,11 @@ In Basic+, a player can draw any turn if he so desires, but he must do it instea
 
 One very important aspect to note is to never use the rule "draw until you have a valid card". This rule, in all our play tests, generated endless games, that would just drag on forever and ever. People often forget the official rules and make this mistake, basically ruining their first play of the day.
 
-### Uno Penalties
+## Uno Penalties
 
 The penalties for not Uno'ing or wrong accusing changed to 3 cards, to match those of special rules. As the addition of special rules make it much more common to apply such penalties, the unified amount was reduced to 3 cards.
 
-### No Scoring
+## No Scoring
 
 All the Scoring rules where removed, because no one uses then, they are complex and unnecessary. Check other suggestions for Matches [here](first-player-matches.md).
 

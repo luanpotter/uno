@@ -39,4 +39,4 @@ Contribute by making the rules clearer and free of ambiguity, correcting any err
 
 ## Licensing
 
-This entire repository is [MIT](LICENSE.md). The UNO&reg; trademark and IP are registered by &copy; Mattel under copyright laws, and this repository is not endorsed nor related to Mattel&trade; or any affiliates, and therefore is based under Fair Use.
+This entire repository is [MIT](LICENSE.md). The UNO&reg; trademark and IP are registered by &copy; Mattel under copyright laws, and this repository is not endorsed nor related to &copy; Mattel or any affiliates, and therefore is based under Fair Use.
